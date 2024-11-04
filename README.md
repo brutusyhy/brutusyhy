@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brutusyhy" alt="brutusyhy" /></a> </p>
 
-- 🔭 I’m currently working on [Reinvent My Wheels](https://github.com/brutusyhy/Reinvent-My-Wheels)
+- 🔭 I’m currently working on [Polars Explorer](https://github.com/brutusyhy/polars-explorer)
 
 - 🌱 I’m currently learning **Java (Spring & Spring Boot), MERN stack, Rust, C++, Machine Learning and Data Science among others**
 
