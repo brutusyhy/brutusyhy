@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Polars Explorer](https://github.com/brutusyhy/polars-explorer)
 
-- 🌱 I’m currently learning **Java (Spring & Spring Boot), MERN stack, Rust, C++, Machine Learning and Data Science among others**
+- 🌱 I’m currently learning **Systems Programming, Java (Spring & Spring Boot), MERN stack, Rust, C++, Machine Learning and Data Science among others**
 
 - 📫 How to reach me **brutusyhy@gmail.com**
 
