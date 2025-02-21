@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Moss](https://github.com/keenawa-co/moss) [Polars Explorer](https://github.com/brutusyhy/polars-explorer)
 
-- 🌱 I’m currently learning **Systems Programming, Java (Spring & Spring Boot), MERN stack, Rust, C++, Machine Learning and Data Science among others**
+- 🌱 I’m currently learning **Rust Backend Development**
 
 - 📫 How to reach me **brutusyhy@gmail.com**
 
@@ -32,3 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brutusyhy&show_icons=true&locale=en" alt="brutusyhy" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
