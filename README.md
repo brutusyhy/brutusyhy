@@ -35,7 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust       5 hrs 18 mins   ██████████████████████▒░░   88.76 %
+Python     33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+TOML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
