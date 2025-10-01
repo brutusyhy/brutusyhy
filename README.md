@@ -35,11 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          1 hr 34 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
-Rust                1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-Python              52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-JSON                30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Rego                17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
