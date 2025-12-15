@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brutusyhy" alt="brutusyhy" /></a> </p>
 
-- 🔭 I’m currently working on [Sapic](https://github.com/keenawa-co/sapic) [Polars Explorer](https://github.com/brutusyhy/polars-explorer)
+- 🔭 I’m currently working on [Polars Explorer](https://github.com/brutusyhy/polars-explorer)
 
 - 🌱 I’m currently learning **Rust Backend Development**
 
